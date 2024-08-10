@@ -39,7 +39,6 @@ This project requires the following Python libraries:
 - Statsmodels
 - Matplotlib
 - Seaborn
-- Plotly
 
 Ensure that Python version 3.x is installed. All code should run without issues in a Jupyter Notebook environment.
 
@@ -60,7 +59,7 @@ This repository contains the following files:
   - `converted`: Indicates whether the user converted (signed up for email updates).
   - `location`: Simulated location data for each user.
   - `device`: Simulated device type for each user.
-  - `control_conversion_rate`, `treatment_conversion_rate`: Conversion rates for the controlled and treatment groups by devices and location.
+
 
 **Note**: The data is simulated to mimic realistic patterns while preserving the confidentiality of the original data.
 
