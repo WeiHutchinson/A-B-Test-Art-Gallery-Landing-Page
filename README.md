@@ -1,5 +1,5 @@
 # Art Gallery Landing Page A/B Test Optimisation
-
+This project is based on a real client consultation project, though the data has been desensitised for showcase purposes.
 ## Table of Contents
 1. [Introduction/Overview](#introductionoverview)
 2. [Objective](#objective)
