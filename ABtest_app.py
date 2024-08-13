@@ -9,7 +9,7 @@ from statsmodels.stats.outliers_influence import variance_inflation_factor
 from datetime import datetime
 
 # Load data
-df = pd.read_csv('C:\\Users\\may20\\Downloads\\Github-1\\ABTEST\\AB_Test-Landing_page.csv')
+df = pd.read_csv('AB_Test-Landing_page.csv')
 # Data preprocessing
 df['timestamp'] = pd.to_datetime(df['timestamp'], format='%d/%m/%Y')
 df['variant_id'] = df['variant_id'].astype(int)
